@@ -3,7 +3,7 @@ By adding 5ive Lee Bot in to your Server,You agree and accept for our privacy po
 
 1.WHAT INFORMATION IS STORED?
 
-Currently we are storing guild info and user info.
+Currently we are storing guild info and user info.We are also storing user's economy balances and their inventory items as well.
 
 2.WHAT GUILD INFO THE BOT WILL STORE?
 
