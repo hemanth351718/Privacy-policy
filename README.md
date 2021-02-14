@@ -15,10 +15,10 @@ The user info consists of Username,User ID,User tag,User discord create date,Use
 
 4.WHERE WILL WE SHARE THE INFORMATION?
 
-We will not share the guild and user info anywhere,we will just store with us.
+We will not share these information anywhere,we will just store with us.
 
 5.WHAT IS THE PURPOSE OF STORING THE INFORMATION?
 
 We will store guild and user info for knowing that how many servers and users are using our bot.And also for improving the bot and user experience.
 
-If you have any questions related to the bot feel free to ask in the 5ive Lee [support server](https://discord.gg/8Y3pm3dqtQ)
+If you have any questions related to the bot feel free to ask in the 5ive Lee [support server](https://discord.gg/8Y3pm3dqtQ) or feel free to DM the bot owner **HEMANTH KOHLI#5301**
